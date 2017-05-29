@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "eyeq_furnacetools:items/overheat_furnace_hoe"
+  }
+}
